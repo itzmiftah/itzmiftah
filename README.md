@@ -7,35 +7,22 @@
 🌐 Web Development Intern with experience in UI/UX design.
 💻 Software Trainee specializing in interactive applications.
 - 🌟 My Tech Stack:
-- React
-- JavaScript
-- MongoDB
-- Node.js
-- Express.js
-- SQL
-- C
+- Frontend: HTML, CSS, JavaScript, React,
+- Backend: Node.js, Express, MongoDB, MySQL,
+- Tools: Git, VS Code, Postman.
 ### Featured Projects
 Here are some of the projects I've worked on:
 
-- [TextUtils](https://textutils-mif.vercel.app/): Description of Project 1.
-- [Project 2](Link to Project 2): Description of Project 2.
-- [Project 3](Link to Project 3): Description of Project 3.
+- [TextUtils](https://textutils-mif.vercel.app/): Technologies: React , HTML , CSS , JS.
+- [TodoList](https://todo-list-miftah.vercel.app/): Technologies: React , HTML , CSS , JS.
+- [Portfolio](https://miftahportfolio.vercel.app/): Technologies: React , HTML , CSS , JS.
+- [Instagram-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
+- [Pinterest-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
+- [AirBnb-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
 
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/miftahul-islam-b794a817a/)
+- [Email](miftahulislam.dev@gmail.com)
 
+Feel free to explore my repositories and reach out for any inquiries or collaboration opportunities. Happy coding! 🚀
 
-
-
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

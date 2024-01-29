@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/miftahul-islam-b794a817a/)
-- [Email](miftahulislam.dev@gmail.com)
+- [Email](miftahulislam.dev@gmail.com) miftahulislam.dev@gmail.com
 
 Feel free to explore my repositories and reach out for any inquiries or collaboration opportunities. Happy coding! 🚀
 

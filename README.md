@@ -7,13 +7,13 @@
 🌐 Web Development Intern with experience in UI/UX design.
 💻 Software Trainee specializing in interactive applications.
 🌟 My Tech Stack:
-React
-JavaScript
-MongoDB
-Node.js
-Express.js
-SQL
-C
+- React
+- JavaScript
+- MongoDB
+- Node.js
+- Express.js
+- SQL
+- C
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

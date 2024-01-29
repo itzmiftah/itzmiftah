@@ -6,7 +6,7 @@
 🎓 Bachelor's degree in Computer Science and Engineering with a CGPA of 8.1.
 🌐 Web Development Intern with experience in UI/UX design.
 💻 Software Trainee specializing in interactive applications.
-🌟 My Tech Stack:
+- 🌟 My Tech Stack:
 - React
 - JavaScript
 - MongoDB
@@ -14,6 +14,20 @@
 - Express.js
 - SQL
 - C
+### Featured Projects
+Here are some of the projects I've worked on:
+
+- [TextUtils](https://textutils-mif.vercel.app/): Description of Project 1.
+- [Project 2](Link to Project 2): Description of Project 2.
+- [Project 3](Link to Project 3): Description of Project 3.
+
+
+
+
+
+
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

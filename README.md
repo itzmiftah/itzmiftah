@@ -2,10 +2,10 @@
 <h4>A Full-Stack developer | MERN Stack</h4>
  <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;&center=true&width=400&height=50"></a>
  - 🔭 I’m currently working on a MERN Project
-- 🌱 I’m Interested to work on Web 3.0
-- 👯 I’m making the world better by PRs 
-- 💬 Ask me about Technology
-- 📫 How to reach me: miftahulislam.dev@gmail.com
+ - 🌱 I’m Interested to work on Web 3.0
+ - 👯 I’m making the world better by PRs 
+ - 💬 Ask me about Technology
+ - 📫 How to reach me: miftahulislam.dev@gmail.com
 
  I'm a passionate software developer with experience in web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and a journey into the world of coding.
 

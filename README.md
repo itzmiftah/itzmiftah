@@ -7,6 +7,13 @@
  - 💬 Ask me about Technology
  - 📫 How to reach me: miftahulislam.dev@gmail.com
 
+ - 🔭 I’m currently working on a MERN Project
+- 🌱 I’m Interested to work on Web 3.0
+- 👯 I’m making the world better by PRs 
+- 💬 Ask me about Technology & Finance
+- 📫 How to reach me: dipayansarkar265482@gmail.com
+- ⚡ Fun fact: I'm currently studying B. Tech Computer Science
+
  I'm a passionate software developer with experience in web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and a journey into the world of coding.
 
 ## About Me

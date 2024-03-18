@@ -26,7 +26,7 @@ Here are some of the projects I've worked on:
 - [TodoList](https://todo-list-miftah.vercel.app/): Technologies: React , HTML , CSS , JS.
 - [Portfolio](https://miftahportfolio.vercel.app/): Technologies: React , HTML , CSS , JS.
 - [Instagram-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
-- [Pinterest-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
+- [Pinterest-Clone](https://pinterest-clone-uyqo.onrender.com/): Technologies:Node.js, Express, MongoDB, Ejs.
 - [AirBnb-Clone](/): Technologies:Node.js, Express, MongoDB, Ejs.
 
 

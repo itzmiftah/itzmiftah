@@ -18,7 +18,7 @@
 - 🌟 My Tech Stack:
 - Frontend: HTML, CSS, JavaScript, React,
 - Backend: Node.js, Express, MongoDB, MySQL,
-- Tools: Git, VS Code, Postman.
+- Tools: Git, VS Code, Postman API.
 ## Featured Projects
 Here are some of the projects I've worked on:
 

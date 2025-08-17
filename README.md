@@ -1,56 +1,53 @@
-# Hello, I'm Miftahul Islam! 👋
-<h4>A Full-Stack Developer | MERN Stack | Laravel Developer</h4>
+# Hello, I'm Miftahul Islam! 👋  
+<h3>A Full-Stack Developer | MERN Stack | Laravel Developer</h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;&center=true&width=400&height=50" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Specialist;Laravel+Developer;API+Integration+Expert;&center=true&width=500&height=50" />
 
-- 🔭 I’m currently working on multiple MERN and Laravel projects.
-- 🌱 I’m exploring opportunities in Web 3.0 and cloud-native development.
-- 👯 I’m contributing to open-source and collaborative projects.
-- 💬 Ask me anything about web development and backend architecture.
-- 📫 Reach me at: **miftahulislam.dev@gmail.com**
-
-I'm a passionate software developer with experience in full-stack web development and a strong foundation in computer science. Welcome to my GitHub profile, where I showcase my projects, contributions, and journey through tech.
-
-## 📘 About Me
-🎓 Bachelor's degree in Computer Science and Engineering (CGPA 8.1)
-🌐 Web Development Intern with hands-on UI/UX and backend development experience
-💻 Software Trainee with a focus on scalable and secure applications
-
-### 💻 My Tech Stack
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Node.js, Express.js, PHP, Laravel, MongoDB, MySQL
-- **Tools**: Git, GitHub, Postman, VS Code, Docker, Firebase
-
-## 🚀 Featured Projects
-Here are some of the projects I’ve built or contributed to:
-
-- [TextUtils](https://textutils-mif.vercel.app/) – React text processing tool
-- [TodoList](https://todolist-mif.vercel.app/) – Full-featured task manager (React/Next.js)
-- [Portfolio](https://miftahportfolio.vercel.app/) – My developer portfolio
-- [Pinterest-Clone](https://pinterest-clone-uyqo.onrender.com/) – Visual board app (Node.js/Express/MongoDB)
-- [CharteredHelp Blog](https://blog.charteredhelp.com/) – CMS-enabled blogging platform
-- [Delma Invoice System](http://delmabeach.com/login) – Laravel-based quotation and invoice tool
-- [SwiftAccess Website](https://swiftaccess-sa.com/) – Corporate Laravel website with CMS
-- [Prime Overseas](http://primeoverseas.co/) – Consultancy website for overseas education (Laravel/PHP)
-- [Telegram Bot] – Node.js bot using Telegram APIs
+🔭 Currently working on multiple **MERN** and **Laravel** projects  
+🌱 Exploring **Web 3.0** and **Cloud-native development**  
+👯 Active in **open-source contributions**  
+💬 Ask me about **web development, REST APIs, and backend architecture**  
+📫 Reach me at: **miftahulislam.dev@gmail.com**
 
 ---
 
-<a href="https://www.github.com/itzmiftah" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/itzmiftah?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=itzmiftah&label=Profile%20views&color=0e75b6&style=flat" alt="itzmiftah" />
-</p>
+## 📘 About Me
+🎓 B.Tech in Computer Science and Engineering (CGPA: 8.1)  
+🌐 Hands-on experience in **UI/UX + scalable backend development**  
+💻 Skilled in building **secure, API-driven, and high-performance applications**  
 
-### 🛠️ Languages & Tools
+---
+
+## 💻 Tech Stack
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Bootstrap  
+- **Backend:** Node.js, Express.js, PHP, Laravel  
+- **Databases:** MySQL, MongoDB  
+- **Core Expertise:** RESTful API Development, Authentication & Authorization, Payment Gateway Integration  
+- **Tools & Platforms:** Git, GitHub, Postman, VS Code, Docker, Firebase, Vercel, Render  
+
+---
+
+## 🚀 Featured Projects
+- [TextUtils](https://textutils-mif.vercel.app/) – React-based text processing tool  
+- [TodoList](https://todolist-mif.vercel.app/) – Task manager with Next.js + API-ready structure  
+- [Portfolio](https://miftahportfolio.vercel.app/) – My developer portfolio site  
+- [Pinterest-Clone](https://pinterest-clone-uyqo.onrender.com/) – Visual board app (Node.js, Express, MongoDB)  
+- [CharteredHelp Blog](https://blog.charteredhelp.com/) – CMS-enabled blogging platform  
+- [Delma Invoice System](http://delmabeach.com/login) – Laravel-based quotation & invoicing system  
+- [SwiftAccess Website](https://swiftaccess-sa.com/) – Corporate Laravel website with CMS  
+- [Prime Overseas](http://primeoverseas.co/) – Consultancy website for overseas education  
+- [Telegram Bot] – Node.js bot using **Telegram APIs**  
+
+---
+
+## 🛠️ Languages & Tools
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="40" height="40" />
   <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="40" height="40" />
   <img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40" />
-  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="40" height="40" />
+  <img src="https://wsofter.ru/wp-content/uploads/2017/12/node-express.png" width="50" height="40" />
   <img src="https://img.icons8.com/nolan/512/github.png" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" />
   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width="40" height="40" />
@@ -73,7 +70,7 @@ Here are some of the projects I’ve built or contributed to:
 </a>
 
 <a href="http://www.github.com/itzmiftah">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=itzmiftah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itzmiftah&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
 </a>
 
 <a href="https://github.com/itzmiftah">
@@ -83,9 +80,7 @@ Here are some of the projects I’ve built or contributed to:
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/miftahul-islam-b794a817a/)
-- 📧 Email: [miftahulislam.dev@gmail.com](mailto:miftahulislam.dev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/miftahul-islam-b794a817a/)  
+- 📧 Email: [miftahulislam.dev@gmail.com](mailto:miftahulislam.dev@gmail.com)  
 
-Feel free to explore my repositories and reach out for any collaboration opportunities.
 
-**Happy coding! 🚀**

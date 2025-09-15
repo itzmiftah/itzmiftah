@@ -63,7 +63,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" />
-  <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" width="40" height="40" />
 </p>
 
 ---

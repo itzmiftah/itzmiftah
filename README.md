@@ -2,19 +2,20 @@
 
 ## 🚀 Full-Stack Developer | MERN & Laravel | API Integration Specialist  
 
-<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack;Laravel+Developer;API+Integration;Open+Source+Contributor;&center=true&width=500&height=50" />
+<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack;Laravel+Developer;API+Integration;Automation+with+N8N;&center=true&width=500&height=50" />
 
 🔭 Currently working on multiple **MERN** and **Laravel** projects  
 🌱 Exploring **Web 3.0** and **Cloud-native development**  
+⚡ Built **Google Email Scraper** and **WhatsApp automation** using **N8N**  
 👯 Active in **open-source contributions**  
-💬 Ask me about **Web Development, REST APIs, and Backend Architecture**  
+💬 Ask me about **Web Development, REST APIs, Backend Architecture, and Automation**  
 📫 Reach me at: **miftahulislam.dev@gmail.com**  
 
 ---
 
 ## 📘 About Me
 🎓 B.Tech in Computer Science & Engineering (**8.1 CGPA**)  
-🌐 Hands-on experience in **UI/UX design and scalable backend development**  
+🌐 Hands-on experience in **UI/UX design, scalable backend development, and process automation**  
 💻 Skilled in building **secure, API-driven, and high-performance applications**  
 
 ---
@@ -23,21 +24,19 @@
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React.js, Next.js, Tailwind CSS, Bootstrap  
 - **Backend:** Node.js, Express.js, PHP, Laravel  
 - **Databases:** MySQL, MongoDB  
+- **Automation:** N8N (Workflows, Google Scraper, WhatsApp Automation)  
 - **Core Expertise:** RESTful API Development, Authentication & Authorization, Payment Gateway Integration  
 - **Tools & Platforms:** Git, GitHub, Postman, VS Code, Docker, Firebase, Vercel, Render  
 
 ---
 
 ## 🚀 Featured Projects
-- [TextUtils](https://textutils-mif.vercel.app/) – React-based text processing tool (**React, Bootstrap**)  
-- [TodoList](https://todolist-mif.vercel.app/) – Task manager with API-ready structure (**Next.js, Node.js**)  
-- [Portfolio](https://miftahportfolio.vercel.app/) – Developer portfolio site (**React, Tailwind**)  
 - [Pinterest-Clone](https://pinterest-clone-uyqo.onrender.com/) – Visual board app (**Node.js, Express, MongoDB**)  
-- [CharteredHelp Blog](https://blog.charteredhelp.com/) – CMS-enabled blogging platform (**Laravel, MySQL**)  
+- [Home-Ezy](https://home-ezy.net/home) – E-commerce platform with **Next.js + Payment Gateway**  
 - [Delma Invoice System](http://delmabeach.com/login) – Quotation & invoicing system (**Laravel**)  
-- [SwiftAccess Website](https://swiftaccess-sa.com/) – Corporate website with CMS (**Laravel**)  
-- [Prime Overseas](http://primeoverseas.co/) – Consultancy website for overseas education (**Laravel**)  
-- [Telegram Bot] – Automated bot using **Telegram APIs (Node.js)**  
+- [SwiftAccess](https://swiftaccess-sa.com/) – Corporate security solutions website (**Laravel**)  
+- [Prime Overseas](http://primeoverseas.co/) – Education consultancy platform (**Laravel**)  
+- **N8N Automations** – Built workflows for **Google Email Scraping** & **WhatsApp Automation**  
 
 ---
 
@@ -64,7 +63,7 @@
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" />
   <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg" width="40" height="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="40" height="40" />
 </p>
 
 ---
